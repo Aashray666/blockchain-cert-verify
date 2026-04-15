@@ -169,7 +169,9 @@ Open `http://localhost:5173` in your browser.
 
 ## 📸 Screenshots
 
-> Add screenshots of the Issue tab, Verify tab, and Blockchain Explorer panel here.
+<img width="2504" height="1333" alt="image" src="https://github.com/user-attachments/assets/d489d782-1957-4fc1-b471-3f2eb154f080" />
+
+<img width="2501" height="1329" alt="image" src="https://github.com/user-attachments/assets/83ed8ac4-ab35-4fe0-82ed-1a5f054b1b1a" />
 
 ---
 
