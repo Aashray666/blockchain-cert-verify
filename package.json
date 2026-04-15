@@ -1,0 +1,9 @@
+{
+  "name": "certificate-verification",
+  "version": "1.0.0",
+  "description": "Secure Digital Certificate Verification Using Blockchain",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
